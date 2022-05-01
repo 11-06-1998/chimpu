@@ -1,3 +1,6 @@
+#zoak.pdf lit.pdf file should be ignored
+*zoak.pdf
+*lit.pdf
 #All pdf file shoulb be ignored
 *.pdf
 #All pdf file should be ignored
