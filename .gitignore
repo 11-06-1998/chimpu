@@ -1,6 +1,4 @@
-# All hlw. file should be ignored
-*.1
-*.2
+#All pdf file should be ignored
 # Compiled class file
 *.class
 
