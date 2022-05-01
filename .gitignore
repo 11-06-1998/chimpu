@@ -1,3 +1,5 @@
+#All pdf file shoulb be ignored
+*.pdf
 #All pdf file should be ignored
 # Compiled class file
 *.class
